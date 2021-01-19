@@ -1,7 +1,7 @@
 """
 Chatbot
-Author: 
-Period/Core: 
+Author: jacob spaeth
+Period/Core: 6
 
 """
 
@@ -32,3 +32,123 @@ if __name__ == "__main__":
   t = input("Run pytest? (y/n)").lower()
   if t == 'y':
     run_tests()
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
+
+g = int(input("a number: "))
+if (g == 9):
+print("Freshman")
+elif (g == 10):
+print("Sophomore")
+elif (g == 11):
+print("Junior")
+elif (g == 12):
+print("Senior")
+else:
+print("You\’re not in high school!")
