@@ -79,7 +79,7 @@ if quest5 == 'buffalo bills':
 if quest5 == 'kansas city cheifs':
   print("I have to agree with you!")
 if quest5 == 'green bay packers':
-  print("i think that they have a great chance on winning!?")
+  print("i think that they have a great chance on winning!")
 if quest5 == 'tampa bay buccaneers':
   print("they do have a great team!")
 
@@ -89,3 +89,42 @@ if quest6 == 'yes':
 if quest6 == 'no':
   print("Im sorry to hear that")
 
+print("lets keep talking!")
+print("Lets play a game!")
+import random 
+quest7 = input("ok, now pick a number, 1 or 2 ")
+user_draw = random.randint(1, 2)
+print(user_draw)
+if quest7 == '1':
+  print("Great choice!")
+if quest7 == '2':
+  print("Great choice!")
+
+print("lets play another game")
+print("this is a number game and your goal is to get me to respond back with negative number")
+num = float(input("Enter a number: "))
+if num >= 0:
+    if num == 0:
+        print("Zero")
+    else:
+        print("Positive number")
+else:
+    print("Negative number")
+
+print("You might be tired of talking to me but I love games")
+price = 100
+
+if price > 100:
+    print("price is greater than 100")
+elif price == 100:
+    print("price is 100")
+elif price < 100:
+    print("price is less than 100")
+
+quest8 = input ("what was the price?")
+if quest8 == '100':
+  print("Great job!")
+else:
+  print("sorry that is not right, better luck next time")
+
+print("I had a wonderful time talking to you and I hope that we can talk sometime in the future!")
